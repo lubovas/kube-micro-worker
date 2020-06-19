@@ -1,1 +1,0 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/build.sbt","3fca946c2d599f3d6cc73f887cf9237f9596daa3"],["/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/project/plugins.sbt","656a3a53b25dcb1934acce70142615e44f1d3349"]],"lastModifiedTimes":[]}]
