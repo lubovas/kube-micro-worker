@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/src/main/resources/logback.xml,/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/src/main/resources/application.conf,/Users/Lubo/Documents/Code/kube-microservice/kube-micro-worker/target/scala-2.13/classes/application.conf)[0m
